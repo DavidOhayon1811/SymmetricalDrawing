@@ -127,6 +127,7 @@ canvas {
 
 /* buttons */
 button {
+    outline: none;
     cursor: pointer;
     position: absolute;
     bottom: 20px;
@@ -179,6 +180,7 @@ button:hover::after {
 
 /* sliders */
 .slider {
+    outline: none;
     position: absolute;
     bottom: 20px;
     margin: auto;
